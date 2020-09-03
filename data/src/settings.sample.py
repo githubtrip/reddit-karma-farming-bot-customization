@@ -1,0 +1,6 @@
+# Reddit API
+REDDIT_CLIENT_ID="xxx"
+REDDIT_SECRET="xxx"
+REDDIT_USERNAME="xxx"
+REDDIT_PASSWORD="xxx"
+REDDIT_USER_AGENT="Reddit: The Official App 2020.20.1 Android 9"
